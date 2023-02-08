@@ -2,4 +2,4 @@
 prepare for aws certifications
 
 # 目录
-- [备考笔记](./docs/books/README.md)
+- [备考笔记](docs/notes/README.md)
